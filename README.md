@@ -1,2 +1,1 @@
 # LeetCode-Solutions
-A LIST OF ALL OF MY LEETCODE SOLUTIONS
